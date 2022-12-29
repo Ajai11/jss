@@ -1,0 +1,70 @@
+[{
+    "name": "Trinity Eye Hospital",
+    "patient_count": 200,
+    "location": "Koppam, Palakkad"
+}, {
+    "name": "Sai Hospital ",
+    "patient_count": 150,
+    "location": "Olavakkode, Palakkad"
+}, {
+    "name": "Co operative Hospital ",
+    "patient_count": 200,
+    "location": "N H Bypass Road, Palakkad"
+}, {
+    "name": "City Hospital",
+    "patient_count": 200,
+    "location": "Sulthanpet, Palakkad"
+}, {
+    "name": "Dr Mani Eye Care Hospital",
+    "patient_count": 50,
+    "location": "Mundur"
+}, {
+    "name": "Dr.Kujelan Hospital",
+    "patient_count": 100,
+    "location": "Nh Bypass Nemmara"
+}, {
+    "name": "Medical College",
+    "patient_count": 250,
+    "location": "Kannadi, Palakkad"
+}, {
+    "name": "Eye Care Center",
+    "patient_count": 300,
+    "location": "Ottapalam"
+}, {
+    "name": "Arjun Memorial Hospital",
+    "patient_count": 100,
+    "location": "Mattumandha, Palakkad"
+}, {
+    "name": "Lakshmi Hospital Palakkad",
+    "patient_count": 100,
+    "location": "Palakkad"
+}, {
+    "name": "Jishnu Eye Hospital & Institute",
+    "patient_count": 100,
+    "location": "Jainimedu, Palakkad"
+}, {
+    "name": "Rajeev Hospital ",
+    "patient_count": 100,
+    "location": "MG road, Banglore"
+}, {
+    "name": "Devi Nursing Home",
+    "patient_count": 200,
+    "location": "Vadakanthera, Palakkad"
+}, {
+    "name": "Mercy Hospital",
+    "patient_count": 250,
+    "location": "Palakkad"
+}, {
+    "name": "Santhosh Eye Hospital",
+    "patient_count": 300,
+    "location": "Palakkad"
+}, {
+    "name": "Kabali Memorial Hospital",
+    "patient_count": 25,
+    "location": "Palakkad"
+}, {
+    "name": "Government Hospital",
+    "patient_count": 300,
+    "location": "Palakkad"
+
+}]
